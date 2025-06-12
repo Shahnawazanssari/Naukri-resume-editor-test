@@ -31,3 +31,9 @@ This project automates the validation of a specific UI behavior in the **Naukri.
 ```bash
 pip install -r requirements.txt
 pytest tests/ --html=report.html --self-contained-html
+```
+
+## Bug Video
+
+https://github.com/user-attachments/assets/a6c04c66-ec14-423a-9dbd-255327327253
+
